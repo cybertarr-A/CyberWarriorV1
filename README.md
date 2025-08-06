@@ -28,6 +28,3 @@ CyberWarrior is an AI-powered vulnerability scanning and penetration testing fra
   - Generates detailed output logs and saves analysis reports in CSV format
 
 ---
-
-## 🗂️ Project Structure
-

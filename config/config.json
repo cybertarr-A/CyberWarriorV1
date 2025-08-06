@@ -1,0 +1,13 @@
+{
+  "project_name": "CyberWarrior AI",
+  "raw_data": "data/raw",
+  "processed_data": "data/processed",
+  "result_dir": "results",
+  "models": "models",
+  "logs": "logs",
+  "log_file": "logs/cyberwarrior.log",
+  "memory": "brain/memory.json",
+  "tokenizer_dir": "models/cyberwarrior-core",
+  "model_dir": "models/cyberwarrior-core",
+  "ai_analysis_results": "data/processed/ai_analysis_results.csv"
+}
